@@ -1,0 +1,64 @@
+h1 {
+    font-size: 98px;
+    color: #fff;
+    font-family: ;
+}
+
+h2 {
+    font-size: 30px;
+    color: #fff;
+    font-family: ;
+}
+
+h3 {
+    font-size: 20px;
+    color: #fff;
+    font-family: ;
+}
+
+button {
+    height:70;
+    width:220px;
+    border: none;
+    text-decoration: none;
+    margin: 4px 2px;
+    border-radius: 12px;
+    cursor: pointer;
+    }
+
+p {
+    align-content: center;
+    text-align: center;
+    }
+
+.youtube {
+    background-color: #f00;
+}
+
+.twitch {
+    background-color: #9c4fff;
+}
+
+.discord {
+    background-color: #5662f6;
+}
+
+.telegram {
+    background-color: #2ea2dc;
+}
+
+.icon {
+    height: 70px;
+    width: 70px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center
+  }
+
+.container {
+    display: flex;
+    justify-content: center;
+  }
